@@ -29,8 +29,7 @@ currency-converter/
 └── assets/
     └── icons/          # Icons or images used (optional)
 🔧 How to Use
-demo - link 
-
+Live Demo - https://venkatsaikrishnan045.github.io/currency-convertor/
 
 💡 Future Improvements
 Add currency conversion history
